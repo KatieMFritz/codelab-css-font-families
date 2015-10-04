@@ -1,10 +1,17 @@
+@font-face {
+      font-family: "Throw My Hands Up in the Air";
+      src: url("/ThrowMyHandsUpintheAirBold.ttf");
+      font-weight: bold;
+}
+
 body {
   max-width: 800px;
   margin: 1em auto;
   background: #eee;
-  font-family: Verdana, sans-serif;
-  font-size: 1.1em;
-  line-height: 1.2em;
+  font-family: "Throw My Hands Up in the Air", sans-serif;
+  font-size: 1.2em;
+  letter-spacing: .1em;
+  line-height: 1.5em;
 }
 
 .group:after {
