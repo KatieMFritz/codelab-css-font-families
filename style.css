@@ -17,8 +17,9 @@ header {
   padding: 1em;
 }
 
-h1 {
+h1, h2 {
   color: purple;
+  font-family: "Gloria Hallelujah", sans-serif;
 }
 
 main {
